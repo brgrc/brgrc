@@ -8,7 +8,7 @@ I am a **Full-Stack Developer** passionate about building robust, scalable web a
 * **Frontend:** Crafting interactive UIs with **React**, **TypeScript**, and **Tailwind CSS**.
 * **Backend:** Engineering reliable APIs and microservices using **C#** and **.NET 8**.
 * **Data:** Designing efficient schemas with **Entity Framework Core** and **SQL Server**.
-* **Learning:** Currently exploring [Insert a tech you're learning, e.g., Azure or Microservices].
+* **Learning:** Currently exploring Microservices, Software Architecture and Design Patterns.
 
 ---
 
@@ -26,19 +26,20 @@ I am a **Full-Stack Developer** passionate about building robust, scalable web a
 ### 📊 GitHub Stats
 &nbsp;
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brgrc&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brgrc&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
 
+<!--
 ### 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/YOUR-PROFILE](https://linkedin.com/in/YOUR-PROFILE)
+***LinkedIn:**[linkedin.com/in/YOUR-PROFILE](https://linkedin.com/in/YOUR-PROFILE)
 * **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 * **Email:** [your.email@example.com](mailto:your.email@example.com)
 
 > "Clean code always looks like it was written by someone who cares." — *Robert C. Martin*
-
+-->
 
 <!--
 **brgrc/brgrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
